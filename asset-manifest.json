@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mia/static/css/main.5ed13c54.chunk.css",
+    "main.js": "/mia/static/js/main.724114d2.chunk.js",
+    "main.js.map": "/mia/static/js/main.724114d2.chunk.js.map",
+    "runtime-main.js": "/mia/static/js/runtime-main.e2703f88.js",
+    "runtime-main.js.map": "/mia/static/js/runtime-main.e2703f88.js.map",
+    "static/js/2.8a06fee3.chunk.js": "/mia/static/js/2.8a06fee3.chunk.js",
+    "static/js/2.8a06fee3.chunk.js.map": "/mia/static/js/2.8a06fee3.chunk.js.map",
+    "static/js/3.c14b55f0.chunk.js": "/mia/static/js/3.c14b55f0.chunk.js",
+    "static/js/3.c14b55f0.chunk.js.map": "/mia/static/js/3.c14b55f0.chunk.js.map",
+    "index.html": "/mia/index.html",
+    "static/css/main.5ed13c54.chunk.css.map": "/mia/static/css/main.5ed13c54.chunk.css.map",
+    "static/js/2.8a06fee3.chunk.js.LICENSE.txt": "/mia/static/js/2.8a06fee3.chunk.js.LICENSE.txt",
+    "static/media/438am.09770db6.mp3": "/mia/static/media/438am.09770db6.mp3",
+    "static/media/HeadphoneMia.7822e5a8.JPG": "/mia/static/media/HeadphoneMia.7822e5a8.JPG",
+    "static/media/ShouldveKissed.bb0ad23c.mp3": "/mia/static/media/ShouldveKissed.bb0ad23c.mp3",
+    "static/media/end.c507df20.JPG": "/mia/static/media/end.c507df20.JPG",
+    "static/media/start.f2b056f2.jpeg": "/mia/static/media/start.f2b056f2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2703f88.js",
+    "static/js/2.8a06fee3.chunk.js",
+    "static/css/main.5ed13c54.chunk.css",
+    "static/js/main.724114d2.chunk.js"
+  ]
+}
